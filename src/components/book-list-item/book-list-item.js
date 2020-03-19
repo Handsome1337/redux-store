@@ -17,7 +17,7 @@ const BookListItem = ({ book, onAddedToCart }) => {
           className="btn btn-info add-to-cart"
           onClick={onAddedToCart}>
             Add to cart
-          </button>
+        </button>
       </div>
     </div>
   );
